@@ -1,5 +1,5 @@
 INSTRUCTIONS to see this webapp in action
-1)Create an conda env
+1)Create an conda env 
 2)activate it
 3)pip install -r requirements.txt
 4)now you have to install redis server https://redis.io/
