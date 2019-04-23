@@ -4,7 +4,7 @@
 ## 3)pip install -r requirements.txt
 ## 4)now you have to install redis server https://redis.io/
 ## 5)run the redis server in one terminal
-## 6)You need to place node_modules folder where manage.py is location
+## 6)You need to place node_modules folder where manage.py is located
 ## 7)python manage.py makemigrations
 ## 8)python manage.py migrate
 ## 9)python manage.py runserver
