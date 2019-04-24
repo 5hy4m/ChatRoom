@@ -4,6 +4,7 @@
 ## Create an env
 ### conda create --name myenv
 ### activate myenv
+### conda install pip
 ### pip install -r requirements.txt
 ## open another terminal
 ## now you have to install redis server https://redis.io/
